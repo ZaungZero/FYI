@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-anydpi-v26/button_menu_normal.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-hdpi/button_menu_normal.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-ldpi/button_menu_normal.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-mdpi/button_menu_normal.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-v15/button_menu_normal.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-v21/button_menu_normal.xml" value="0.1609375" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-v21/ic_cancel.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-v21/ic_launcher_background.xml" value="0.15" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-v21/ic_list_menu.xml" value="0.290625" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-v21/ic_menu.xml" value="0.290625" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-v21/ic_menu_camera.xml" value="0.290625" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-v21/ic_sign_in_user.xml" value="0.290625" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-v21/ic_sign_up_user.xml" value="0.290625" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-v24/button_menu_normal.xml" value="0.1609375" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-v24/ic_cancel.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.15" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-v24/ic_list_menu.xml" value="0.290625" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-v24/ic_menu.xml" value="0.290625" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-v24/ic_sign_in_user.xml" value="0.290625" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-v24/ic_sign_up_user.xml" value="0.290625" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-v27/button_menu_normal.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-xhdpi/button_menu_normal.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-xxhdpi/button_menu_normal.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-xxhdpi/dotted.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable-xxxhdpi/button_menu_normal.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable/button_menu_normal.xml" value="0.1609375" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable/button_menu_pressed.xml" value="0.1609375" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable/button_menu_selected.xml" value="0.1609375" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable/button_menu_selector.xml" value="0.1609375" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable/button_normal.xml" value="0.1609375" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable/button_pressed.xml" value="0.1609375" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable/button_selected.xml" value="0.1609375" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable/button_selector.xml" value="0.1609375" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_add.xml" value="0.17037037037037037" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_add_note.xml" value="0.17037037037037037" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_cancel.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_info.xml" value="0.1712962962962963" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_launcher_background.xml" value="0.15" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_list_menu.xml" value="0.290625" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_log_in.xml" value="0.1712962962962963" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_logout_app.xml" value="0.1712962962962963" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_menu.xml" value="0.1609375" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_menu_icon.xml" value="0.1609375" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_request.xml" value="0.1712962962962963" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_settings_icon.xml" value="0.1712962962962963" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_sign_in_user.xml" value="0.290625" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_sign_up_user.xml" value="0.290625" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_suggestion.xml" value="0.1712962962962963" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-560dpi/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-hdpi/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-large-hdpi/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-large-mdpi/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-large-xhdpi/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-large-xxhdpi/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-large-xxxhdpi/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-ldpi/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-mdpi/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-normal-hdpi/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-normal-mdpi/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-normal-xhdpi/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-normal-xxhdpi/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-normal-xxxhdpi/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-sw1080dp/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-sw300dp/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-sw330dp/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-sw360dp/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-sw390dp/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-sw420dp/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-sw450dp/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-sw480dp/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-sw510dp/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-sw540dp/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-sw570dp/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-sw600dp/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-sw630dp/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-sw660dp/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-sw690dp/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-sw720dp/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-sw750dp/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-sw780dp/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-v26/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-v26/note_list.xml" value="0.2006340579710145" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-xlarge-hdpi/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-xlarge-mdpi/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-xlarge-xhdpi-v21/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-xlarge-xhdpi-v26/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-xlarge-xhdpi/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-xlarge-xxhdpi/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout-xlarge-xxxhdpi/activity_about.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout/activity_about.xml" value="0.13385416666666666" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout/activity_note_view.xml" value="0.4" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout/activity_request.xml" value="0.2509057971014493" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout/activity_send_suggestion.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout/activity_signin.xml" value="0.192481884057971" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout/activity_signup.xml" value="0.192481884057971" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout/comment_popup_layout.xml" value="0.2006340579710145" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout/menu_popup_layout.xml" value="0.2346014492753623" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout/note_list.xml" value="0.192481884057971" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout/note_task_popup_layout.xml" value="0.192481884057971" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout/request_list.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout/request_to_write_popup_layout.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout/signin_popup_layout.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/layout/suggestion_list.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/mipmap-hdpi/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/mipmap-mdpi/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/mipmap-xhdpi/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/mipmap-xxhdpi/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/mipmap-xxxhdpi/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/mipmap/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FYI/app/src/main/res/mipmap/ic_launcher_round.xml" value="0.1609375" />
+      </map>
+    </option>
+  </component>
+  <component name="NullableNotNullManager">
+    <option name="myDefaultNullable" value="org.jetbrains.annotations.Nullable" />
+    <option name="myDefaultNotNull" value="androidx.annotation.NonNull" />
+    <option name="myNullables">
+      <value>
+        <list size="14">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.Nullable" />
+          <item index="1" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.Nullable" />
+          <item index="2" class="java.lang.String" itemvalue="android.support.annotation.Nullable" />
+          <item index="3" class="java.lang.String" itemvalue="androidx.annotation.Nullable" />
+          <item index="4" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNullable" />
+          <item index="5" class="java.lang.String" itemvalue="com.android.annotations.Nullable" />
+          <item index="6" class="java.lang.String" itemvalue="javax.annotation.Nullable" />
+          <item index="7" class="java.lang.String" itemvalue="javax.annotation.CheckForNull" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.Nullable" />
+          <item index="9" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableDecl" />
+          <item index="10" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableType" />
+          <item index="11" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.Nullable" />
+          <item index="12" class="java.lang.String" itemvalue="io.reactivex.annotations.Nullable" />
+          <item index="13" class="java.lang.String" itemvalue="io.reactivex.rxjava3.annotations.Nullable" />
+        </list>
+      </value>
+    </option>
+    <option name="myNotNulls">
+      <value>
+        <list size="14">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.NotNull" />
+          <item index="1" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.NonNull" />
+          <item index="2" class="java.lang.String" itemvalue="android.support.annotation.NonNull" />
+          <item index="3" class="java.lang.String" itemvalue="androidx.annotation.NonNull" />
+          <item index="4" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNonNull" />
+          <item index="5" class="java.lang.String" itemvalue="com.android.annotations.NonNull" />
+          <item index="6" class="java.lang.String" itemvalue="javax.annotation.Nonnull" />
+          <item index="7" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.NonNull" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullDecl" />
+          <item index="9" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullType" />
+          <item index="10" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.NonNull" />
+          <item index="11" class="java.lang.String" itemvalue="io.reactivex.annotations.NonNull" />
+          <item index="12" class="java.lang.String" itemvalue="io.reactivex.rxjava3.annotations.NonNull" />
+          <item index="13" class="java.lang.String" itemvalue="lombok.NonNull" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

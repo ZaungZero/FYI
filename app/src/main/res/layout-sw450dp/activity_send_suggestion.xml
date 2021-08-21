@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.circularreveal.CircularRevealRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView_Suggestion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/clrl_bottom"
+        android:layout_alignParentTop="true" />
+
+    <com.google.android.material.circularreveal.cardview.CircularRevealCardView
+        android:id="@+id/clrl_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="10dp"
+        android:foregroundGravity="bottom"
+        app:cardCornerRadius="30dp"
+        app:cardElevation="10dp">
+
+        <com.google.android.material.circularreveal.CircularRevealRelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:foregroundGravity="bottom"
+            android:gravity="bottom">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/edt_suggest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toStartOf="@+id/imgBtn_send_suggest"
+                android:layout_toLeftOf="@+id/imgBtn_send_suggest"
+                android:background="@null"
+                android:foregroundGravity="top"
+                android:gravity="top"
+                android:hint="@string/write_your_suggestion"
+                android:paddingStart="20dp"
+                android:paddingLeft="20dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                tools:ignore="RtlSymmetry" />
+
+            <androidx.appcompat.widget.AppCompatImageButton
+                android:id="@+id/imgBtn_send_suggest"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="false"
+                android:foregroundGravity="bottom"
+                android:visibility="invisible"
+                app:backgroundTint="@android:color/transparent"
+                app:srcCompat="@drawable/ic_send_icon" />
+        </com.google.android.material.circularreveal.CircularRevealRelativeLayout>
+    </com.google.android.material.circularreveal.cardview.CircularRevealCardView>
+</com.google.android.material.circularreveal.CircularRevealRelativeLayout>

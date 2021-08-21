@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/note_cardView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="5dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginRight="5dp"
+    app:cardBackgroundColor="#FFFEF7"
+    app:cardCornerRadius="10dp"
+    app:strokeColor="#B6AAAA">
+
+    <com.google.android.material.circularreveal.CircularRevealRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.google.android.material.circularreveal.CircularRevealRelativeLayout
+            android:id="@+id/topPanel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.google.android.material.circularreveal.CircularRevealLinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:layout_marginLeft="15dp"
+                android:orientation="vertical">
+
+                <com.google.android.material.textview.MaterialTextView
+                    android:id="@+id/txtView_authorName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+
+                <com.google.android.material.textview.MaterialTextView
+                    android:id="@+id/txtView_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Small"
+                    android:textSize="10sp"
+                    tools:ignore="SmallSp" />
+            </com.google.android.material.circularreveal.CircularRevealLinearLayout>
+
+            <com.google.android.material.circularreveal.CircularRevealRelativeLayout
+                android:id="@+id/layout_menu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_margin="10dp">
+
+                <androidx.appcompat.widget.AppCompatImageButton
+                    android:id="@+id/imgView_menu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector_circle"
+                    android:tooltipText="Note Task"
+                    app:srcCompat="@drawable/ic_list_menu" />
+
+            </com.google.android.material.circularreveal.CircularRevealRelativeLayout>
+        </com.google.android.material.circularreveal.CircularRevealRelativeLayout>
+
+        <com.google.android.material.circularreveal.CircularRevealRelativeLayout
+            android:id="@+id/note_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/topPanel">
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/txtView_note_limit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:maxLines="9"
+                android:padding="5dp"
+                android:textColor="@color/black"
+                app:popupTheme="@style/Theme.FYI.PopupOverlay" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/txtView_note_full"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:padding="5dp"
+                android:textColor="@color/black"
+                app:popupTheme="@style/Theme.FYI.PopupOverlay" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/txtView_continue_reading"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="5dp"
+                android:background="#FFFEF7"
+                android:padding="5dp"
+                android:text="@string/continue_reading"
+                android:textStyle="bold" />
+        </com.google.android.material.circularreveal.CircularRevealRelativeLayout>
+
+        <View
+            android:id="@+id/line"
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_below="@+id/note_layout"
+            android:layout_marginTop="5dp"
+            android:background="@color/black" />
+
+        <com.google.android.material.circularreveal.CircularRevealRelativeLayout
+            android:id="@+id/layout_comment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/line"
+            android:background="@drawable/button_selector">
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/imgView_comment_dark"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toStartOf="@+id/txtView_opinion"
+                android:layout_toLeftOf="@+id/txtView_opinion"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:tint="?attr/colorControlNormal"
+                app:srcCompat="@drawable/ic_comment_white" />
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/imgView_comment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toStartOf="@+id/txtView_opinion"
+                android:layout_toLeftOf="@+id/txtView_opinion"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:visibility="gone"
+                app:srcCompat="@drawable/ic_comment" />
+        </com.google.android.material.circularreveal.CircularRevealRelativeLayout>
+    </com.google.android.material.circularreveal.CircularRevealRelativeLayout>
+</com.google.android.material.card.MaterialCardView>
